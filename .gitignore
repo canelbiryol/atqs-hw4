@@ -60,5 +60,3 @@ target/
 \.project
 
 \.pydevproject
-
-cointData\.csv
